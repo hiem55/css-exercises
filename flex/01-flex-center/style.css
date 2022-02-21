@@ -5,6 +5,10 @@
   height: 300px;
 }
 
+p {
+  text-align: center;
+}
+
 .box {
   background: palevioletred;
   font-weight: bold;
@@ -12,4 +16,8 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+}
+
+p{
+  text-align: center;
 }
